@@ -44,4 +44,5 @@ public class InputView {
             throw new IllegalArgumentException(NOT_INTEGER_MESSAGE, e);
         }
     }
+
 }
